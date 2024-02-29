@@ -29,6 +29,6 @@ This repository serves as my learning environment of "Text Sentiment Analysis us
 To install this project, simply clone the repository and run the following commands:
 
 ```bash
-git clone https://github.com/rendychristiann/ibm-the-art-of-prompt-.git
-cd ibm-the-art-of-prompt-engineering
+git clone https://github.com/rendychristiann/text-sentiment-analysis-using-caikit-and-hugging-face.git
+cd text-sentiment-analysis-using-caikit-and-hugging-face
 npm install
